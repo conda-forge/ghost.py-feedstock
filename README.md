@@ -11,6 +11,18 @@ Summary: Webkit based webclient.
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/ghost.py-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/ghost.py-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/ghost.py-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/ghost.py-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/ghost.py-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/ghost-py-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/ghost.py/badges/version.svg)](https://anaconda.org/conda-forge/ghost.py)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/ghost.py/badges/downloads.svg)](https://anaconda.org/conda-forge/ghost.py)
+
 Installing ghost.py
 ===================
 
@@ -31,7 +43,6 @@ It is possible to list all of the versions of `ghost.py` available on your platf
 ```
 conda search ghost.py --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -67,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/ghost.py-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/ghost.py-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/ghost.py-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/ghost.py-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/ghost.py-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/ghost-py-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/ghost.py/badges/version.svg)](https://anaconda.org/conda-forge/ghost.py)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/ghost.py/badges/downloads.svg)](https://anaconda.org/conda-forge/ghost.py)
 
 
 Updating ghost.py-feedstock
