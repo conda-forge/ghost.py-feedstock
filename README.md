@@ -14,9 +14,9 @@ Summary: Webkit based webclient.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/ghost.py-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/ghost.py-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/ghost.py-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/ghost.py-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/ghost.py-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/ghost-py-feedstock/branch/master)
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/tmpx4wltbrh-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/tmpx4wltbrh-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/tmpx4wltbrh-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/tmpx4wltbrh-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/tmpx4wltbrh-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/tmpx4wltbrh-feedstock/branch/master)
 
 Current release info
 ====================
