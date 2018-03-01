@@ -1,8 +1,8 @@
 {% set name = "Ghost.py" %}
-{% set version = "0.2.3" %}
+{% set version = "2.0.0.dev0" %}
 {% set bundle = "tar.gz" %}
 {% set hash_type = "sha256" %}
-{% set hash = "efd1a2b027fd803cf615570b1520a07dc80cc13fc656646221428d86a653310a" %}
+{% set hash = "72a719ca94826674671e52a1fda803793fee49f1e938fd4a565e5ba8487774f1" %}
 {% set build = 0 %}
 
 package:
@@ -15,7 +15,7 @@ source:
   {{ hash_type }}: {{ hash }}
 
 build:
-  number: {{ build }}
+  number: 0
   script: python setup.py install --single-version-externally-managed --record=record.txt
 
 requirements:
